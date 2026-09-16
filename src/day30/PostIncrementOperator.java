@@ -1,3 +1,5 @@
+package day30;
+
 public class PostIncrementOperator {
     static void main() {
 
@@ -23,10 +25,10 @@ public class PostIncrementOperator {
 
         System.out.println("==================");
 
-        int g = -10;
+        int g = 10;
         int h = g++;
-        System.out.println(g);//-9
-        System.out.println(h);//-10
+        System.out.println(g);//11
+        System.out.println(h);//10
 
 
     }
