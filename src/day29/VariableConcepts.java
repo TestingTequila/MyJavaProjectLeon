@@ -1,3 +1,5 @@
+package day29;
+
 public class VariableConcepts {
 
     static void main() {

@@ -1,3 +1,5 @@
+package day29;
+
 public class MathOperations {
     static void main() {
         System.out.println("======Case 1. [I/I = I part]===================");

@@ -1,3 +1,5 @@
+package day29;
+
 public class DataTypeConcepts {
 
     static void main() {
