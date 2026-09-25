@@ -45,6 +45,5 @@ public class ExecuteResumeTemplate
         System.out.println(resume3.isMarried);
         System.out.println(resume3.gender);
 
-
     }
 }
